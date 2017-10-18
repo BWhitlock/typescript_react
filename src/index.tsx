@@ -10,7 +10,6 @@ render(
     <BrowserRouter>
       <div>{/* <Route path="/" exact={true} component={Home} /> */}</div>
     </BrowserRouter>
-    hi
   </div>,
   document.getElementById("app")
 );
